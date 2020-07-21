@@ -1,4 +1,4 @@
-A statistical tool to analyze the "scaling property" in English corpora
+A statistical tool to analyze the "scaling property" in DNA sequence
 
 ---------
 ## Fitting_MLE
